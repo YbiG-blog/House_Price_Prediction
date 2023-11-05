@@ -1,0 +1,15 @@
+**House Price Prediction Model**
+
+# Objective:
+This project aims to build a predictive model for house prices based on a dataset containing features such as the number of bathrooms, bedrooms, and more.
+
+# Getting Started:
+
+Dataset: Ensure you have the house price dataset.
+Dependencies: Install necessary libraries like scikit-learn, pandas, and NumPy.
+
+# Usage:
+
+1. Load the dataset.
+2. Pre-process the data (handling missing values, encoding categorical variables).
+3. Split the data into training and testing sets.
